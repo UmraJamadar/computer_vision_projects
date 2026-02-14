@@ -4,8 +4,10 @@ Computer Vision Suite is a modular AI-based system that performs:
 ✅ Real-time Face Detection
 ✅ Face Recognition using trained datasets
 ✅ Emotion Detection from facial expressions
+
 📌 Project Overview
 This repository includes the following modules:
+
 1️⃣ Face Detection
 Detects human faces in real-time using Haar Cascade classifiers.
 Key Features:
