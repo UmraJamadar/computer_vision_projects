@@ -102,30 +102,30 @@ pip install opencv-python numpy
 
 Step 3: Run Modules
 
-For Face Detection
+For Face Detection:
 
 python face_detection.py
 
 
-For Face Recognition
+For Face Recognition:
 
 python train_faces.py
 python face_recognize.py
 
 
-For Emotion Detection
+For Emotion Detection:
 
 python emotion_detection.py
 
 🎯 Future Improvements
 
-Improve model accuracy using deep learning (CNN)
+- Improve model accuracy using deep learning (CNN)
 
-Add GUI interface
+- Add GUI interface
 
-Deploy as a web application
+- Deploy as a web application
 
-Optimize performance for real-world use
+- Optimize performance for real-world use
 
 👩‍💻 Author
 
