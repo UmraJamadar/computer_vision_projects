@@ -1,0 +1,6 @@
+saved_faces/
+trainer/
+dataset/
+__pycache__/
+*.pyc
+*.yml

@@ -1,6 +1,6 @@
 import cv2
 import os
-import numpy as mp
+import numpy as np
 from datetime import datetime
 
 face_cascade=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
